@@ -1,4 +1,4 @@
-# Miniml Skin Suite
+# Miniml Skin Suite ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Minimalist skin suite for [Rainmeter][rainmeter], based on the *illustro* skin suite by [poiru][poiru].
 
